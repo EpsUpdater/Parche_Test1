@@ -1,7 +1,8 @@
 {
   "Info": [
     {
-      "nombre": "Parche_Test"
+      "nombre": "Parche_Test",
+      "autor": "Autor de prueba"
     }
   ]
 }
